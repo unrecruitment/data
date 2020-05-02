@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import os
+import sys
 import math
 
 import logging
@@ -9,12 +10,15 @@ logging.basicConfig(level=logging.DEBUG)
 import ruamel.yaml
 yaml = ruamel.yaml.YAML()
 
-from linkedin.archives import Data
+from linkedin.archives import Data, Archive
 import numpy as np
 
 
 for person in Data('users').people:
-    posts = person.posts
+    if len(sys.argv) > 1:
+        posts = Archive(sys.argv[1]).posts
+    else:
+        posts = person.posts
 
     posts = posts[~posts.index.duplicated()]
     data = posts.to_dict(orient='index')
