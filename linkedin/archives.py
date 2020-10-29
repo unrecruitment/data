@@ -8,7 +8,7 @@ import logging
 log = logging.getLogger("linkedin.archives")
 
 import pandas as pd
-pd.set_option('display.max_colwidth', -1)
+pd.set_option('display.max_colwidth', None)
 
 class Data:
     def __init__(self, path):

@@ -1,4 +1,841 @@
 posts:
+  '2020-10-01 12:29:41':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3AugcPost%3A6717410144315043840
+    ShareCommentary: "Prošel jsem kvůli vám peklem, tak si to koukejte alespoň přečíst.\
+      \ A jestli mě máte rádi, pusťte si celý podcast, ať v tom nejsem sám.\n\n#vlčata\n\
+      \n„Já myslím že to maj, to maj, CoolPeople, jako tam když se, když vidíš, na\
+      \ linkáč na mě vyskáčou ňákejch recruiterky, tak to polovina z nich jsou blondýny,\
+      \ jo. Myslim si, že ty to tam maj tohle jako hozený jako…“\n\nJe dost hrozné\
+      \ jenom poslouchat ten projev. Je ještě horší vyslechnout si ty názory. Ale\
+      \ myslím, že tam padlo pár informací, které mohou být důležité jak pro vývojáře\
+      \ na trhu práce, tak pro holky z recruitmentu… Tak i pro chlapy z recruitmentu,\
+      \ kteří nechtějí před ostatními lidmi působit jako namyšlení ocasové. Holky\
+      \ programátorky budou \U0001F92E dvakrát.\n\nJá nejsem příznivcem „cancel culture“,\
+      \ a tak čtěte, poslouchejte, šiřte a komentujte. Ať se dvaačtyřicátý podcast\
+      \ nelidských zdrojů dostane mezi co nejvíc lidí.\n\n#Unrecruitment\n\nP. S.\
+      \ Jako obvykle na čtení mých článků doporučuju monitor na výšku."
+    Visibility: MEMBER_NETWORK
+  '2020-09-30 08:06:05':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6716981419056357376
+    ShareCommentary: "Pojďte se vzdělávat. Jaký je rozdíl mezi bitem a bajtem? Napište\
+      \ do komentářů, než budete číst dál.\n\nBrácha mě coby prcka naučil převádět\
+      \ mezi binární, dekadickou a hexadecimální soustavou. Není to dlouho, co jsem\
+      \ slavil kulatých 0x20 neboli 0b100000. Už budete vědět, proč letos proběhla\
+      \ konference Netdev 0x14.\n\nBajt má adresu v operační paměti. Následující bajt\
+      \ má adresu o jednotku vyšší. Funguje jako proměnná o 256 stavech.\n\nČíslo\
+      \ se dnes typicky ukládá do čtveřice bajtů (32 bitů). Takové číslo 258 (1 ×\
+      \ 256 + 2 × 1) lze uložit od nejvýznamnějšího bajtu (0, 0, 1, 2) nebo od nejméně\
+      \ významného (2, 1, 0, 0). Většina počítačů pracuje tím druhým způsobem (little\
+      \ endian), síťové protokoly typicky tím prvním (big endian).\n\nBity nejsou\
+      \ v paměti přímo přístupné. Přečíst musíte číslo (třeba 32 bitů), a pomocí (bitových)\
+      \ aritmetických operací můžete zjišťovat a nastavovat hodnotu jednotlivých bitů.\
+      \ Proto nemají bity ani pořadí (endianess).\n\nA jsou v tom  zmatky. Třeba jazyk\
+      \ C umí bitfieldy, ale určuje u nich i pořadí bitů v bajtu podle endianess,\
+      \ což znamená, že jsou pro síťové programování nepoužitelné.\n\n#SuperBeginners\n\
+      \nP. S. Technicky přesnější název pro skupinu osmi bitů je octet. V lidovém\
+      \ IT jej příliš nepotkáte, ale v technické dokumentaci je stále velmi oblíbený."
+    Visibility: MEMBER_NETWORK
+  '2020-09-29 15:55:20':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6716737119512993792
+    ShareCommentary: "Přijde mi, že ani spousta docela chytrých lidí nechápe, jak\
+      \ funguje čistá, hrubá a superhrubá mzda, a proč je vlastně máme. Možná mě místní\
+      \ účetní doplní či opraví.\n\nTak předně existuje mzda, kterou má člověk většinou\
+      \ sjednanou. To je hrubá mzda a nemá žádný smysl se ji snažit zrušit, jak někteří\
+      \ navrhují.\n\nMnozí nadávají, že se neuvádí čistá mzda, aby věděli, co dostanou\
+      \ na účet. To ovšem nedává smysl, protože ta záleží na jejich vlastních odpočtech\
+      \ a slevách na dani, se kterými nemá zaměstnavatel nic společného.\n\nJiní nechápou,\
+      \ proč se neuvádějí mzdové náklady, že by každý viděl, jak je jeho práce zdaněna.\
+      \ Proč tedy hrubá mzda není totéž, co mzdové náklady. Nemusí se nám to líbit,\
+      \ ale oboustranným zdaněním si může stát vybrat, komu ty peníze v danou chvíli\
+      \ dá nebo vezme.\n\n#Unrecruitment\n\nJenom systém superhrubé mzdy je úplný\
+      \ paskvil, jehož jediným smyslem je uvést lidi v omyl. Je velice zvláštní, že\
+      \ si ji prosadila politická strana, která by měla být z principu pro jednoduché\
+      \ a nekomplikované daně pro všechny. Takové čarování s číslíčky, aby vyšší daně\
+      \ vypadaly nižší.\n\n#Daně #Berně\n\nSociální a zdravotní na straně zaměstnavatele\
+      \ se počítá z hrubé, sociální a zdravotní na straně zaměstnance taktéž z hrubé,\
+      \ daň se počítá ze superhrubé. Prostě bordel."
+    Visibility: MEMBER_NETWORK
+  '2020-09-28 07:50:17':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6716252663907934208
+    ShareCommentary: "Na to nemám čas. Nepravdivost toho tvrzení tu někdo zmínil v\
+      \ souvislosti se čtením chytrých knížek, co z váš udělají lepšího, šťastnějšího,\
+      \ bohatšího, krásnějšího…\n\nKdysi mi kamarád ze střední už asi popáté na dotaz\
+      \ na hospodu řekl, že nemá čas. Nevydržel jsem to, a řekl jsem mu, kdo má zájem,\
+      \ ten si čas udělá. Řekl, že to mám pravdu, a tím diskuze skončila.\n\nZa to\
+      \ jsem mu vděčný. Ono totiž říct někomu, že byste ho sice rád viděl, ale je\
+      \ před ním na seznamu další řada lidí, které jste taky nestihl… Je to těžké\
+      \ a nevděčné. Ale přesně se teď snažím dělat, když se se mnou chce někdo vidět,\
+      \ a nehodí se mi ten čas vyhradit zrovna pro něj.\n\nA přesně takto už dobrých\
+      \ patnáct let nemám čas pomáhat lidem s jejich počítačem, tiskárnou, whatever…\
+      \ Jen proto, že jsem se naučil lépe googlit než oni. Jednou někomu pomoct by\
+      \ nebyl problém, ale lenost všech zalepit nemůžu.\n\nTaky je na světě pár lidí,\
+      \ kteří by mi dokázali poradit s mojí prací. Taky by to pro ně bylo „na chvilku“,\
+      \ zatímco já to musím odedřít celé. Ale představa, že by takhle musel pravidelně\
+      \ odmentorovat třeba tři lidi, je devastující.\n\n#Unrecruitment #SuperBeginners\
+      \ #TimeManagement\n\nP. S. Chytré knížky raději nečtu, když vidím, co to s lidmi\
+      \ tady na LinkedIn dělá."
+    Visibility: MEMBER_NETWORK
+  '2020-09-26 10:21:22':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6715565912889561088
+    ShareCommentary: "Kdosi mě na sítích krmí, že běžný OSVČ odvede méně než 10 %\
+      \ svého výdělku.\n\nNeklame-li mě paměť, platíme povinně 13.5 % zdravotní pojištění\
+      \ a 29.2 % sociálního pojištění z 50 % zisku, a k tomu 15 % daň ze zisku. Tedy\
+      \ celkově okolo 36 % ze zisku. Ale běda těm, kdo nedosáhnou na minimální sazby.\n\
+      \nZisk je rozdílem výnosů a nákladů. Můžeme se bavit, zda daný OSVČ započítává\
+      \ jen náklady účelné, nebo zda netěží přespříliš z paušálního určení výdajů.\
+      \ Tak daleko se s oběťmi komunistické propagandy na sítích ale ani nedostanete.\n\
+      \nLidé mnohdy neumějí počítat a nerozumějí základům účetnictví, natož podnikání,\
+      \ přesto mají potřebu šířit nesmysly.\n\nNěkterý OSVČ může využít paušální určení\
+      \ výdajů ke snížení zdanění. Jen při 100% marži lze 60% paušálem snížit zdanění\
+      \ skutečného zisku až k 15 % před uplatněním slev na dani. Takového luxusu ale\
+      \ dosáhnete jedině při švarcsystému nebo jiném nízkonákladovém modelu.\n\n#Unrecruitment\
+      \ #Podnikání #OSVČ\n\nKdyž mi kopání do OSVČ začne vadit natolik, že si založím\
+      \ firmu bez zaměstnanců, zmizí paušální výdaje, sociální a zdravotní, zdanění\
+      \ bude 19% daň z příjmu. Z podílu na zisku zaplatím 15 %, celkem odvedu okolo\
+      \ 31 %.\n\nP. S. A to si musejí vydělat na každý den dovolené či nemoci, a když\
+      \ to vyjde blbě, nekryje jim záda zaměstnavatel, který by převzal ztráty."
+    Visibility: MEMBER_NETWORK
+  '2020-09-25 07:02:25':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6715153455264096256
+    ShareCommentary: "#KultNeumětelství už i na vašem LinkedIn! Četl jsem indický\
+      \ příspěvek s tagem #CodingForKids, kde dotyčná odsoudila výuku programování\
+      \ pro cca šestileté děti.\n\nJasně, může mít smysl počkat cca do 8 let, kdy\
+      \ mají děcka už rozvinuté logické myšlení, a přitom ještě nemívají dospělácké\
+      \ mindráky. Na druhou stranu u nás se začalo od cca 4 let a trochu to podporuje\
+      \ i státní školka.\n\nA můžu vám říct,  že když se dneska bavím s holkou, co\
+      \ šla sice dělat nějaký ten „people business“, ale byla vychovávána programátorem,\
+      \ poznám, že má i v dospělosti v hlavě něco, co většině ostatních chybí.\n\n\
+      Myslel jsem si, že nás začnou děcka ve znalostech a schopnostech předbíhat,\
+      \ ale ono se to neděje. Dokonce i v té Indii, pověstná takovou podporou IT oboru,\
+      \ až se to může podepsat na kvalitě, zapracovávají nějaké „amišské“ potřeby\
+      \ děti před vzděláváním uchránit.\n\nOni se bojí, že někdo z dětí udělá malé\
+      \ software engineery. Dokonce to přirovnávají k tomu, kdyby se dítě učilo třeba\
+      \ finančnictví. A tak si říkám, kdy si dám s holkou další lekci fungování okolního\
+      \ světa a peněz. \U0001F643\n\n#Unrecruitment #AntiEducation\n\nP. S. Netušíte\
+      \ v jakém věku je v hodné zařadit lekci „lidi jsou kreténi“? Nebo to pozná prostě\
+      \ sama."
+    Visibility: MEMBER_NETWORK
+  '2020-09-24 10:18:59':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6714840535959392256
+    ShareCommentary: "Já to s tou rovnoprávností nějak špatně pochopil.\n\n  ‣ „Když\
+      \ žena křičí, volá o pomoc....většina mužů má problém toto pochopit \U0001F641\
+      “\n\nPokud by na mě žena ve vztahu často křičela, nebo bych sám inklinoval k\
+      \ agresi, snažil bych se vztah ukončit s nadějí, že nám oběma bude lépe.\n\n\
+      \  ‣ „Jenže, to je přesně co ona zrovna nejmíň potřebuje. Když někdo volá o\
+      \ pomoc potřebuje pomoct a ne ignorovat.“\n\nJak můžu ve vztahu pomoct někomu,\
+      \ kdo má problém se mnou?\n\n  ‣ „Muži nesnášejí, když ženy křičí a reakce,\
+      \ že od ní hned uteču je prostě zbabělá... Vždycky je lepší si později v klidu\
+      \ promluvit a ne hned utíkat.“\n\nJe dobré si promluvit, všechno si promyslet,\
+      \ a případně si jít každý svojí, často šťastnější, cestou. \U0001F44D\n\n  ‣\
+      \ „To je totiž to, co ženy na mužích nejvíc ocenění.“\n\nVšechny, nebo jen sobecké\
+      \ emoční upírky? \U0001F914\n\n  ‣ „Tohle nejsou 1 a 0 tohle jsou emoce.“\n\n\
+      Máte problém, že někdo pracuje v IT? Já už si na to zvykl a tu profesi miluju.\
+      \ Zato dvě hrdé členky #KlubNeumětelství nevím, k čemu bych měl potřebovat.\
+      \ Snad kromě dodání materiálu na příspěvek. \U0001F643\n\n„Věřte mi, asi budu\
+      \ o něco starší než Vy.“\n\nVýborně. \U0001F600\n\n#Unrecruitment #NoGentleman\n\
+      \nP. S. Rozumím jedinčkám a nulám a nestydím se za to. Se ženami si rozumím\
+      \ selektivně. Vůbec si s lidmi rozumím selektivně."
+    Visibility: MEMBER_NETWORK
+  '2020-09-22 20:10:14':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6714264554093723648
+    ShareCommentary: "Však jasně. A taky stačí nebýt tak hezká a nenosit krátkou sukni\
+      \ a přiléhavé triko. \U0001F643\n\n„Určitě ne vždy volají call centra vhod.\
+      \ A někdy mohou být telefonáty i otravné. Ovšem stačí nebrat neznámá a neuložená\
+      \ čísla.“\n\nJsou to lidé, které vůbec k ničemu nepotřebujete, a přesto si na\
+      \ vás seženou telefonní číslo a otravují. Nemívají slušné vychování a nerozumějí\
+      \ odmítnutí. Ale všechno zlé je k něčemu dobré, a pokud to vezmete jako hru,\
+      \ může to být legrace.\n\nTak třeba já si jednu dobu dělal statistiku, kolik\
+      \ z nich se ani slušně nerozloučí. Nebo jsem s nimi hrál tichou poštu a předával\
+      \ jsem novému volajícímu to, jak se projevoval ten předchozí. Je to dobré už\
+      \ jenom jako tréning na pohotovost. Dva týdny vám nikdo nezavolal a najednou\
+      \ máte jen několik vteřin se napasovat do role, kterou chcete hrát.\n\n„A vy\
+      \ nepotřebujete ušetřit XY % za elektřinu?“\n\nMůj asi nejlepší úlovek byl distinguovaný\
+      \ pán z Anglie. Na začátku jsem mu řekl, že se mnou dělat dotazník nechce. Na\
+      \ všechny otázky jsem mu odpověděl, že je to soukromá věc, kterou nesděluji.\
+      \ Načež mi oznámil, že takhle je mu ten dotazník k ničemu, a já, že jsem mu\
+      \ to na začátku říkal.\n\n#Unrecruitment #Telemarketing\n\nP. S. Naposledy trochu\
+      \ slabší: „A proč se mě to má týkat, nebo… Já… Já to vůbec nechápu.“ – A telemarketér\
+      \ položil telefon."
+    Visibility: MEMBER_NETWORK
+  '2020-09-22 02:18:33':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6713994856148045824
+    ShareCommentary: "Tak jsem se náhodou zúčastnil nějakého toho testu kognitivních\
+      \ schopností. K testování se používaly dovednosti, které mám z různých důvodů\
+      \ z dobrých 80 % natrénované. Tak třeba…\n\n  ‣ Skládat různorodé tvary z dílků\
+      \ jsem se naučil s velmi podobnou stavebnicí v dětství. Měli jsme ji na chalupě.\n\
+      \n  ‣ Pamatovat si krátkodobě delší skupiny číslic mě naučily různé systémy\
+      \ jednorázových hesel. Nebavilo mě to přepisovat na několikrát.\n\n  ‣ Sčítat\
+      \ číslíčka v textu mě naučily timesheety. Vždycky projedu hodiny shora dolů\
+      \ a pro kontrolu zdola nahoru. Počítání obecně jsem v dětství natrénoval na\
+      \ hotovosti v obchodech.\n\n  ‣ Bludiště a podobné blbinky jsem řešil v dětských\
+      \ časopisech na kvanta. Když už mě to nebavilo po stopadesáté čmárat, řešil\
+      \ jsem je už jenom očima.\n\n  ‣ Složenky (alias poštovní poukázky) nerad, ale\
+      \ taky jsem ji nakonec zvládl vyplnit. Ze všech úloh mi dávala asi nejméně smysl.\n\
+      \nTipoval bych, že mezi střední a dobrou výkonností je to více o tom, jestli\
+      \ už člověk podobné věci řešil, což bude u mě zhruba těch 80 %. Co netuším,\
+      \ je nakolik se dají natrénovat, když člověku na startovní pozici nejdou nebo\
+      \ má nějaký handicap.\n\n#Unrecruitment"
+    Visibility: MEMBER_NETWORK
+  '2020-09-19 10:13:09':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6713027130646757376
+    ShareCommentary: "Před časem mi jedna dáma na akci řekla, že jsem jiný než online\
+      \ a že působím mile. Na otázku, v čem, řekla, že se usmívám. \U0001F642 Za počítačem\
+      \ se přece taky usmívám…\n\nA jsme zpátky u problému z „early nullies“, kdy\
+      \ na internet přicházeli lidé, kteří online komunikaci nezvládli. Oběhnul jsem\
+      \ si pár networkingových akcí a pozoroval rozdíly.\n\nA budete se divit, nikdy\
+      \ se mi na žádné akci nestalo, že by mi někdo jako „alfa vlk“ přišel říct něco\
+      \ jako: „Šimrdo, vy jste blbec.“ Podobně se mnou „nejslavnější recruiter“ na\
+      \ kafi jednal přátelsky a neřekl mi do očí, že si stejně myslí, že jsou ajťáci\
+      \ asociální kokoti, co se o sebe nedokážou postarat.\n\nJe docela na pováženou,\
+      \ že takto s oblibou vystupují lidé, které nábor do IT roky živil, nebo dokonce\
+      \ stále živí. Já chápu, že sociální status IT recruitera není to, po čem jste\
+      \ vždycky toužili. Ale na to si nemusíte vylévat vztek na nerdech, z nichž velkou\
+      \ část nějaký sociální status vůbec nezajímá.\n\nVšimněte si, kolik lidí z IT\
+      \ se stará o svoji práci, o svoje záliby a o svoji rodinu, a nikomu nechodí\
+      \ házet klacky pod nohy. Že někomu napíšete nebo zavoláte a vyrušíte ho z jeho\
+      \ klidu, vám nedává právo jej jakkoli soudit.\n\nRecruitment není chráněná menšina\
+      \ se speciálními právy.\n\n#AllLivesMatter #Unrecruitment #vlčata\n\nP. S. Nebuďte\
+      \ kreténi."
+    Visibility: MEMBER_NETWORK
+  '2020-09-18 09:46:32':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6712658041264721920
+    ShareCommentary: "Nechci se dohadovat o tom, co je nebo není #feminismus. Zjevně\
+      \ to znamená pro každého něco jiného, a tak je to slovo v rozumné diskuzi naprosto\
+      \ nepoužitelné.\n\nJá jsem variaci na tuto ikonickou situaci zažil. Náhodou\
+      \ jsem se kdysi setkal s bývalou přítelkyní. Nejdříve po mně div neskočila,\
+      \ jak ráda mě vidí. A pak na mě začala sypat své rodinné i pracovní úspěchy.\
+      \ V duchu si říkám…\n\n„Však jasný, vždyť jsme se rozešli, protože náš vztah\
+      \ působil přílišný stres tvojí matce. Vlastně bych si moc přál, aby to, co mi\
+      \ tady říkáš, byl skutečný obraz tvého života.“\n\nJenom jsem se zeptal, jak\
+      \ se má. Nechtěl jsem životopis a „instagramovou“ verzi jejího bytí. Na otázku\
+      \ z tohoto „image makra“ jsem ani nepomyslel.\n\nPozději mě a mojí dcerku náhodou\
+      \ obsluhovala v KFC, a už při objednávce mě upozornila, že dodělala VŠ, a přivydělává\
+      \ si tam jen při mateřské. Jinak se chovala úplně v pohodě. Zrovna končila,\
+      \ tak jsme ji ještě s dcerkou pozvali ke stolku na pokec.\n\nNerozumím, proč\
+      \ tady „The Female Lead“ učí ženy podporovat své malé frustrace ze starých vztahů.\
+      \ Podle mě se člověk má se svými bývalými buď snažit bavit jako se starými přáteli,\
+      \ nebo vůbec. Ale kdybych tam napsal do diskuze svůj názor, dostal bych opět\
+      \ vynadáno, že jsem chlap.\n\n#Life #Diversity #DealWithIt"
+    Visibility: MEMBER_NETWORK
+  '2020-09-16 07:48:11':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6711903481608843264
+    ShareCommentary: "Jak vypadá moje práce, a jak se liší od klasického vývoje software\
+      \ na zakázku?\n\nVlastně nevím, jak se správně moje „pracovní pozice“ nazývá,\
+      \ a tak si mezi svými říkám #vývojář (developer, dev), mimo bublinu #programátor\
+      \ a před zákazníky #konzultant.\n\nTak například:\n\nNěco nefunguje, na cílovou\
+      \ desku (ARM) si dám debugger (GDB) a zkusím ladit program. Chybí ladící informace\
+      \ a zdrojové kódy, takže nic nevidím. Obojí mám na svém stroji, ani jedno se\
+      \ neinstaluje na cílovou platformu.\n\nTakže vzdálené debugování (gdbserver).\
+      \ U sebe pouštím příslušný skript z #OpenWRT. Klient (gdb) hlásí chybu, nekompatibilní\
+      \ verzi terminálové knihovny (ncurses). OpenWRT zkompilovalo lokální GDB oproti\
+      \ verzi knihovny určené na desku, nikoliv systémové verzi.\n\nUpravuju OpenWRT,\
+      \ aby mi zkompilovalo i lokální verzi knihovny, upravuju skripty, aby se použila.\
+      \ Opravuju build, který se tím celý rozsypal, protože někdo dělal věci složitě.\
+      \ Ještě nemám hotovo, musím spát.\n\nRáno se vzbudím a říkám si, proč se vlastně\
+      \ nepoužije systémový debugger (gdb), který je přece funkční. Zahodím včerejší\
+      \ změny a upravím skript. Zatím všechno jede.\n\nRozsah úprav: 4 řádky (z toho\
+      \ 3 komentářové)\nReálný čas: cca 5 hodin\nFakturovaný čas: ani se neptejte\n\
+      \n#Unrecruitment #SuperBeginners\n\nP. S. Ještě jsem nezačal ladit ten program."
+    Visibility: MEMBER_NETWORK
+  '2020-09-15 20:34:05':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6711733839003193344
+    ShareCommentary: "Je skvělé, že i v dobách nervozity a napětí zůstává LinkedIn\
+      \ kultivovaným a profesionálním prostředím.\n\nJe příjemné se pohybovat mezi\
+      \ vzdělanými lidmi, kteří tu dělají čest sobě i svým zaměstnavatelům, které\
+      \ si dávají hrdě do „headline“. Člověk tak rovnou ví, na jakou advokátní kancelář\
+      \ se obrátit, kde o něj bude jako o zákazníka dobře postaráno.\n\n„Aha, takže\
+      \ dnes je doba taková, že Vy si zvete lidi na pohovor a vybíráte si, pro koho\
+      \ chcete pracovat a pro koho ne?“\n\nVy si možná nevybíráte, ale v mém světě\
+      \ je to naprosto běžná věc. Krize přináší spoustu nových projektů, na které\
+      \ si podnikatelé a investoři v době téměř nulové nezaměstnanosti netroufali.\n\
+      \n„Takže si je obvoláte tak nějak dle toho, jak se Vám líbí loga, velké nadnárodní\
+      \ firmy, menší firmy a já nevím koho ještě a jejich HR…“\n\nU nás není zvykem\
+      \ vybírat firmy podle loga. Pokud je HR oddělení ochotné pomoci, proč ne. Pokud\
+      \ není, poškozuje tím firmu, což je v době recese poněkud riskantní.\n\n„PROTO\
+      \ JSTE TADY ROZJEL TUHLE ŠAŠKÁRNU Z KTERÉ VYLEZET JENOM JAKO TRUBEC.“\n\nNo\
+      \ comment. \U0001F643\n\n„NE - VÁŠ TLUSTOPRDE.“\n\nTak se oslovujete u vás v\
+      \ advokátní kanceláři? Bylo by docela zajímavé k vám nabídnout exkurzi. Advokátní\
+      \ kancelář ve stylu slavné středověké restaurace v Dětenicích jsem ještě zevnitř\
+      \ neviděl.\n\n#Unrecruitment"
+    Visibility: MEMBER_NETWORK
+  '2020-09-14 14:12:03':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6711275311008374784
+    ShareCommentary: "Začátkem roku mě mrzel zákazník, který mi neakceptoval cenu,\
+      \ ačkoliv dělal „technologie“, které mě velmi zajímají. Ale nejsem blázen, abych\
+      \ přistoupil pod cenou na rizikovou spolupráci.\n\nKaždé jednání se neslo v\
+      \ duchu „unique skills” a „only few people in the world“, přesto jsme se po\
+      \ výměně zdvořilostí a požadavků uvázli vždy na mrtvém bodě.\n\n[Omlouvám se\
+      \ svému obvyklému publiku za následující odstavec.]\n\nTeď to vypadá, že budu\
+      \ znovu nastudovávat #eBPF (umím stav z poloviny roku 2019) a #XDP (vypadá jednoduše)\
+      \ pro jiné zákazníky. A musím říct, že mi kopírování síťových paketů z hardware\
+      \ rovnou do paměti aplikace přijde nesmírně elegantní a řekl bych až neunixovské.\
+      \ \U0001F642 Nedávno jsem si zkusil napsat #ZeroCopy messaging pro #Linux po\
+      \ vzoru #QNX a taky to stálo za to.\n\nA tak přestože si neudržuju pětiletý\
+      \ výhled, snažím se nedělat úplně krátkozraká rozhodnutí. Ani v dobách všeobecné\
+      \ nervozity. A že jsem za poslední rok pár na první pohled riskantních rozhodnutí\
+      \ udělal.\n\n#Unrecruitment #SuperBeginners"
+    Visibility: MEMBER_NETWORK
+  '2020-09-13 17:14:55':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6710958944178716672
+    ShareCommentary: "Asi jsem objevil recruiterské peklíčko, které by si měl pustit\
+      \ úplně každý jednotlivý člověk z #IT. Někdo pro pobavení, někdo pro sondu do\
+      \ duše slavných personalistů.\n\n„Ale já myslim, že je to zase hlavně ňáká póza.\
+      \ Že o tom někde potřebujou mluvit, a přitom jim to dělá dobře, jak dostávaj\
+      \ ty nabídky, a hezký holky si je přidávaj do connections.“\n\nJenom jestli\
+      \ si kluci z #HR nepletou job a blowjob. \U0001F643\n\n„Tak hele aspoň je doma\
+      \ na koleji a ne doma u rodičů, to bych bral jako velkej úspěch.“\n\nNo comment.\
+      \ \U0001F600\n\n„Ne kažej, kdo si říká vývojář, vymejší ňáký ej-áj, to dobře\
+      \ víme. Plno z nich to jsou jenom dělnící, prostě, který tam bušej ňáký weby,\
+      \ ale považujou se za velký programátory.“\n\nVzal bych si vás kluci do studia\
+      \ a vyzpovídal bych vás z pohledu  programátory a umělou inteligenci. \U0001F609\
+      \n\n„Kluku tobě museli dělat strašný věci na škole, šikana, tohlencto, pak prostě\
+      \ první holku až někdy v pětadvaceti. A to je přesně ten, kterej pak potřebuje\
+      \ někde psát, že všichni recruiteři jsou idioti. Najednou prostě z tý nuly vyroste\
+      \ to ego a ta hvězda.“\n\nK zamyšlení. \U0001F642\n\n„Určitě sú ňáké jazyky,\
+      \ které jsou asi jednoduchšie na programovanie.“\n\nProtože programování je\
+      \ o jednoduchých a složitých jazycích. \U0001F914\n\n#Unrecruitment"
+    Visibility: MEMBER_NETWORK
+  '2020-09-13 08:16:20':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6710823403630145536
+    ShareCommentary: "Je to tady. Lidé jsou opět nervózní a podráždění. Spousta z\
+      \ nich uvolnuje energii tím, že se na sítích hádají, čí pověra či konspirační\
+      \ teorie je ta nejlepší a nejsprávnější. A ta největší \U0001F4A9 lajkují i\
+      \ lidé z řad mých kontaktů.\n\nRozdal jsem pár „unfollows“, abych dostal poměr\
+      \ nesmyslů opět na únosnou mez. Já tu nemám v kontaktech lidi, kteří mě nezajímají.\
+      \ Dokonce tam nemám ani spoustu lidí, kteří mě zajímají. Ale zdá se, že si budu\
+      \ muset zase na čas ze svých pověrčivých kamarádů vybrat ty co jsou aspoň trochu\
+      \ nohama na zemi, než se vody zas uklidní.\n\nJe úplně jedno, zda je diskuze\
+      \ o zdraví, školství, pracovním světě nebo rodině. Beztak tu většina aktivních\
+      \ diskutérů točí dokola stejné nesmysly a nikdy se nikam se neposouvají.\n\n\
+      #Unrecruitment\n\nTakže bych vám všem rád popřál, abyste si v rámci možností\
+      \ udrželi zdraví, především to duševní. A pokud se cítíte unaveni, zkuste se\
+      \ na chvíli vyhýbat kreténům. Říkejte tomu třeba #SocialDistancing. \U0001F643\
+      \n\nP. S. Kretény ze svých diskuzí dle vlastního uvážení ode dneška nekompromisně\
+      \ mažu. Nedělal jsem to od dob jistého Radka a jisté Barbory, ale nastal čas\
+      \ se přizpůsobit situaci."
+    Visibility: MEMBER_NETWORK
+  '2020-09-10 07:01:41':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6709717451816366080
+    ShareCommentary: "„Nevěřím na IQ.“\n\nMísto reakce na další hloupý #HR příspěvek\
+      \ o „absíkovi“, který si řekl 40k, zatímco Franta Vomáčka začínal s platem 1950\
+      \ Kč měsíčně…\n\nZatímco málokdo z mé bubliny věří v efektivní měření EQ, testování\
+      \ IQ má punc čehosi vědecky správného.\n\n„Tyto druhy úkolů jsou zlatým standardem\
+      \ měření tzv. fluidní inteligence – tedy té vrozené, nezávislé na vzdělání a\
+      \ předchozích zkušenostech.“\n\nVýborně. Měříme tedy vrozenou vlastnost člověka\
+      \ oproštěnou o jakýkoli trénink.\n\n„Chcete-li změřit IQ svého dítěte, je potřeba\
+      \ přijít na test bez jakhokoliv tréninku. V případě, že budete s dítětem nacvičovat,\
+      \ zkreslíte výsledek testu a jeho IQ se nedozvíte.“\n\nOh wait. Toto bude jistě\
+      \ platit o dětech i dospělých. Na test se tedy lze natrénovat a výsledek testu\
+      \ pak prý není relevantní.\n\nProtože je IQ test v zásadě věcí doplňování vzorů,\
+      \ předpokládal bych, že třeba milovník puzzle bude mít oproti druhým obrovskou\
+      \ výhodu. To samé matematici a někteří programátoři. Následuje obligátní hloupá\
+      \ otázka.\n\n„A jak bys to udělal líp, ty yntelygente?“\n\nNeudělal. Ti, kdo\
+      \ IQ měřit potřebují, jej budou dál měřit blbě, protože jiná možnost není. Je\
+      \ ovšem velmi dobré se zamyslet, jaký tomu číslíčku dáme význam.\n\n#Unrecruitment\
+      \ #SoftScience\n\nP. S. Jsem v rozpoznávání vzorů docela dobrý."
+    Visibility: MEMBER_NETWORK
+  '2020-09-09 12:11:30':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6709433031721005056
+    ShareCommentary: "Renáta nám chtěla ukázat význam kalibrace obrazovek. To je super\
+      \ a rád se o tom dozvím víc!\n\nTakže vzala dva monitory, zkalibrovaný se štítkem\
+      \ GOOD a nezkalibrovaný se štítkem BAD, a na nich nám naživo ukázala stejnou\
+      \ fotku…\n\nTak to se přesně nestalo. Pokud správně rekonstruju možný sled akcí,\
+      \ tak vzala dobrý obrázek RIGHT a upravila jej na nový obrázek tak, aby WRONG\
+      \ na monitoru GOOD vypadal co nejvíce jako RIGHT na monitoru BAD.\n\nNafejkovala\
+      \ tedy obrázek WRONG, který má simulovat chybu monitoru BAD. Obrázky RIGHT a\
+      \ WRONG publikovala pro nás ke srovnání. A tak si prohlížím obrázky RIGHT a\
+      \ WRONG na monitoru MAYBE, o jehož barevných vlastnostech nic nevíme.\n\nA teď\
+      \ mi dopr… vysvětlete, kde se vzal předpoklad, že kdokoli z nás na monitoru\
+      \ MAYBE správně zhodnotí kalibraci monitorů GOOD a BAD podle obrázků RIGHT a\
+      \ WRONG?\n\n#Unrecruitment #SuperBeginners\n\nP. S. Mimochodem mi nikdo nevysvětlil,\
+      \ jak funguje test tetrachromatičnosti člověka (!) na RGB obrazovce, kterému\
+      \ tolik lidí uvěřilo. Ani jak poznám vysokou obnovovací frekvenci LED monitoru\
+      \ na takřka statickém obrazu, jak mi nedávno kamarád tvrdil. A „šaty“ vidím\
+      \ na svém monitoru modro-zlaté.\n\nP. P. S. Kdybych napsal náhodný blábol vycucaný\
+      \ z prstu, tak mi půlka LinkedIn zatleská. Když přesně popíšu (možnou) situaci,\
+      \ dostanu \U0001F602."
+    Visibility: MEMBER_NETWORK
+  '2020-09-09 09:38:14':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6709394464672112641
+    ShareCommentary: "Autismus v #HR • Náhodou jsem se dostal na autistickou konferenci\
+      \ a na přednášku „aspíka“ personalisty.\n\nLidé spektra se prý rádi baví o věcech\
+      \ tak, jak je vidí. Líbilo by se vám přijít na pohovor k člověku, který vám\
+      \ řekne, jak to ve firmě funguje, a co od vás potřebuje? Mně to zní jako sen!\n\
+      \nZ druhé strany je prý největším problémem dospělého (vysokofunkčního) autisty\
+      \ najít si práci, kde mu buď už na pohovoru neřeknou, že nezapadá do týmu, nebo\
+      \ ho během pár dní nevyhodí pro nepochopení nějakého sofistikovaného jinotaje.\n\
+      \nŽádné na konferenci vyslovené speciální potřeby autistů se na první pohled\
+      \ nijak neliší od potřeb lidí, které běžně potkávám. Jediné, v čem já vidím\
+      \ od „neurotypiků“ (naučil jsem se nové slovo) rozdíl, je schopnost vyrovnat\
+      \ se s jejich nenaplněním.\n\nČlověk spektra je prý velmi loajálním zaměstnancem.\
+      \ Aby nebyl, když ho většina firem buď rovnou vyškrtne, nebo mu nevytvořní podmínky,\
+      \ ve kterých dokáže uspokojivě fungovat.\n\nNa akci se velmi málo mluvilo o\
+      \ problémech soužití z pohledu ostatních lidí, které začínají už někde ve školce,\
+      \ kde třeba dítě na spektru zbije půlku skupiny jen proto, že mu nedává komunikace\
+      \ ostatních smysl.\n\n#Unrecruitment #Diversity\n\nP. S. Mým jinotajům tady\
+      \ taky kdekdo nerozumí, ale že bych hned všechny posílal pro diagnózu…"
+    Visibility: MEMBER_NETWORK
+  '2020-09-06 15:25:56':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6708394801181532160
+    ShareCommentary: "Zákazník mě pozval na procházku a po více než 20 km jsme drželi\
+      \ tempo takřka vražedné.\n\nKamenité cestičky mě postupně vyváděly z omylu,\
+      \ že jsem pohyb v #barefoot #fivefingers dostatečně otestoval na kamení v Chorvatsku.\
+      \ Tak mám zdárně otestováno. Od chodidel až po kotníky.\n\nDoma mě nenaučili\
+      \ při cestách remcat, a tak jsem šlapal, dokud šlapali ostatní. Pomalu mě přestávají\
+      \ bolet chodidla a říkají si o druhé kolo. Takže kdo mi pomůže uspořádat „networking\
+      \ na pochodu“?\n\nBude nás víc, nebudem se bát vlka nic.\n\n#Unrecruitment\n\
+      \nP. S. Kdysi dávno mě ještě jako studenta protáhli staří pardálové solidním\
+      \ trackem na běžkách, kde jsem poznal, proč se přeneseně říká „ztratit dech“."
+    Visibility: MEMBER_NETWORK
+  '2020-09-02 22:41:24':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6707054838292856833
+    ShareCommentary: "„Koneckoncu drtivá většina by v živé diskuzi jednala úplně jinak\
+      \ a pravděpodobně je internet jediným prostorem, kde se mohou sociálně realizovat\
+      \ \U0001F609“\n\nŘíká člověk, co mi už i přišel říct, že jsem blbec. Bohužel\
+      \ jen virtuálně. Z očí do očí se k takovému kroku zatím neodhodlal.\n\n#vlčata"
+    Visibility: MEMBER_NETWORK
+  '2020-09-02 21:59:20':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6707044252859420672
+    ShareCommentary: "„Vy byste byl na pohovoru v me firme, kterou ja vybudoval a\
+      \ vy byste se uchazel o praci v ni, takze kdo by tu byl lajdak? \U0001F609“\n\
+      \nKdo z nás dvou je lajdák, se pozná už na první pohled.\n\nJestliže ovšem jediná\
+      \ hodnota, co mi dokážete nabídnout, je, že jste vybudoval svou firmu, pak jste\
+      \ mě právě okradl o čas úplně stejným způsobem, jako městská policie, která\
+      \ mi dnes odtáhla auto o několik kilometrů, aniž bych porušil jediný předpis.\n\
+      \nPokud byste chtěl budovat a zlepšovat moji firmu, pak se můžeme bavit úplně\
+      \ jinak. Jestliže jsem za vámi přijel natěšený na výtečnou spolupráci a připravený\
+      \ detailně prodiskutovat, s čím bych mohl pomoci té vaší…\n\nUvítat mě hnusným\
+      \ kafem s dotazem, kde se vidím za pět let, znamená moje nadšení zabít ještě\
+      \ než zjistím, kdo vůbec jste. A chtěl bych vidět kafe, které mi při tomto modelu\
+      \ komunikace bude chutnat. Budujte si tedy dál svou firmu.\n\nNeplýtvejte mým\
+      \ časem, pokud pro něj nemáte smysluplné využití.\n\n#ArtOfCommunication #Unrecruitment\
+      \ #CEO\n\nP. S. Trvalo hodinu a půl, než jsem mohl nastartovat svoje auto a\
+      \ vyrazit na měsíc plánovanou akci. Měšťáci mě připravili o oběd, a ještě jsem\
+      \ se zpozdil o více než půl hodiny."
+    Visibility: MEMBER_NETWORK
+  '2020-09-01 16:10:50':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6706594162499690496
+    ShareCommentary: "Lžete, když máte pocit, že právě to chce zákazník slyšet? Lžete\
+      \ i veřejně, když tím zákazníkovi uděláte radost?\n\nRomeo: „Kdo dosáhne 500\
+      \ spojení, jde slavit dnešní narozeniny se mnou.“\n\nJulie: „O tom je SOCIÁLNÍ\
+      \ síť. O propojování. O cíleném a oboutranně smysluplném propojování se. A přesně\
+      \ to v XYZ dělají.“\n\nVážně mi chce Julie vykládat o tom, co je sociální síť?\n\
+      \nSociální síť chápu ve dvou významech. V tom starosvětském ve významu souhrnu\
+      \ vztahů mezi různými lidmi. A pak v novodobém digitálním, kde jsem od roku\
+      \ 1999, a který později dovedl takřka k dokonalosti #Facebook.\n\nJako původně\
+      \ „introvertnější“ dítko mám ten první význam zmáknutý daleko lépe než někdo,\
+      \ kdo přišel mezi lidi, nahodil úsměv, a cítil se jako ryba ve vodě. Ale ani\
+      \ ten druhý význam není synonymem pro sbírání kontaktů „na kila“.\n\nJulie chválí\
+      \ svého zákazníka za cílené a oboustranné propojování se, on zatím odměňuje\
+      \ za počet nasbíraných profilů.\n\n„Bohužel ale to, v čem jsi ty na LinkedIn\
+      \ podle mě expert, my se učit nechceme. Naše strategie stojí na něčem jiném,\
+      \ než je tvé trollení.“\n\nJá nenabízel výuku trollení. Na to stejně nemáte.\
+      \ Nabízel jsem jen pokus o odstranění zmatků v terminologii. Ale vnucovat se\
+      \ nebudu. \U0001F643\n\n#SoftSkills #ArtOfCommunication #vlčata\n\nP. S. Neprovokujte\
+      \ mě, nebo tu ještě udělám byznys."
+    Visibility: MEMBER_NETWORK
+  '2020-08-31 18:22:01':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6706264785417183232
+    ShareCommentary: "„Množte se, děvčata. Kariéra není pro vás.“\n\nTak prý začíná\
+      \ diskriminace žen již při studiu. Nemám problém uvěřit, že pár jedinců z řad\
+      \ mužů i žen podobnou větu na akademické půdě vypustilo. Na druhou stranu mají\
+      \ mnozí potřebu hodit svůj neúspěch na něhoko jiného.\n\nSvést vše na diskriminaci\
+      \ musí být neskutečným lákadlem. Všimněte si, kolik sebevědomých diskutérek\
+      \ přijde do diskuze o diskriminaci žen ve vědě, a kolik z nich by si dle diskuze\
+      \ nikdy nenechaly kecat do života od chlapa…\n\nA na druhou stranu se podívejte,\
+      \ kolik žen mi přijde pod příspěvek, kde se objevují slova jako „matematika“\
+      \ nebo „programování“. Čeho se k sakru všechny ty odvážné amazonky tak bojí?\n\
+      \nNepíšu o žádné raketové vědě, nýbrž o věcech, které si průměrně inteligentní\
+      \ člověk může nastudovat z Wikipedie, pokud umí trochu anglicky. V mém oboru\
+      \ je nulová vstupní bariéra, všechno je dostupné online bez nutnosti se formálně\
+      \ zapisovat do nějaké univerzity, a ženy jsou dnes podporované na každém rohu.\n\
+      \nTakže co takhle přestat žvanit a stěžovat si na život, a jít se sebou něco\
+      \ udělat? Šlo by?\n\n#Unrecruitment #SuperBeginners\n\nP. S. Je mi jasné, že\
+      \ to není pro každého, ale pokud jsou ženy podobně schopné… Pak to statisticky\
+      \ vůbec nemá vypadat, jak to vypadá!"
+    Visibility: MEMBER_NETWORK
+  '2020-08-31 07:14:59':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6706096920416288768
+    ShareCommentary: "„Potřebuje vůbec programátor matematiku?“\n\nNe nutně. Máme\
+      \ tu spoustu webařů a bouchačů informačních systémů, kteří při rozvíjení svého\
+      \ umění vystačí se základními počty. Bavíme se o oblastech, kde je univerzitní\
+      \ vzdělání zbytečným luxusem.\n\nA pak tu máme tu drobnou nepříjemnost, že by\
+      \ bez pokročilé znalosti matematiky tyto oblasti ani nevznikly. Neměli bychom\
+      \ ani ten hardware, na kterém to chceme dělat. Počítačová grafika je na pozadí\
+      \ de facto jenom matematika.\n\nDnešní doba je zajímavá tím, že i ty „složité“\
+      \ věci lze nastudovat online a ve volném čase. Pro mě bylo pár semestrů matematiky\
+      \ natolik poučných, že jsem si některé z nich raději zopakoval.\n\nNemíval jsem\
+      \ úplně úspěchy na první dobrou. Druhá věc je, že jsem pak ty stejné věci pomohl\
+      \ naučit hromadu dalších lidí. A tak když dnes řeším v IT problémy matematického\
+      \ rázu, zorientuju se velmi rychle.\n\nTedy když mluvím s člověkem, který umí\
+      \ odpovídat na otázky. Mám kamaráda, dobrého korporátního „IT řemeslníka“, který\
+      \ umí vysvětlovat věci jen podle sebe. Na jakoukoli otázku má tendenci vrátit\
+      \ se o deset minut zpět a opakovat, co už řekl. Někde mezi třetím a pátým „přetočením“\
+      \ ztrácím příčetnost.\n\nJá nemám proti „řemeslu“ nic, jen mi přijdou matematika\
+      \ a teoretická informatika jednoduše zábavnější.\n\n#Unrecruitment #SuperBeginners"
+    Visibility: MEMBER_NETWORK
+  '2020-08-27 22:54:54':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6704883906576957440
+    ShareCommentary: "Objevuju nové obzory. Nejde ani konkrétně o #Turris, ale o to,\
+      \ co se nachází uvnitř mnoha podobně stavěných zařízení, a jak s tím hardware\
+      \ pracuje #Linux.\n\nJedná se o switch s pěti vnějšími porty. Příchozí pakety\
+      \ opatří DSA štítkem s číslem portu a pošle je šestou linkou do CPU. Díky tomu\
+      \ operační systém ví, který paket přišel ze kterého portu. Stejným štítkem dokáže\
+      \ u odchozích paketů určit, kudy mají odejít.\n\nKomunikace musí jít přes virtuální\
+      \ síťové rozhraní pro konkrétní port, aby ji jádro opatřilo DSA štítkem. Linux\
+      \ umožňuje tato rozhraní zařadit do virtuálního bridge. Ten implementuje v software\
+      \ stejné funkce jako switch, a navíc dokáže do hardwarového switche přenést\
+      \ svoji konfiguraci a umožnit rychlé zpracování v hardware.\n\nA tady začínají\
+      \ potíže. Linux odchozí pakety taguje přes DSA, což mi zákazník řekl, že není\
+      \ zcela korektní chování. Načež jsem zjistil, že odchozí multicastové pakety\
+      \ duplikuje a taguje, přičemž celý smysl multicastu je právě vyhnout se duplikaci.\
+      \ Kromě toho jsem zjistil, že Linuxová abstrakce nepočítá se spoustou dalších\
+      \ věcí, které tyhle switch chipy umí.\n\nTeď mě čeká retest toho všeho s nejnovějším\
+      \ jádrem z gitu, aby mi neunikl nějaký nový vývoj, a pak mě zjevně čeká spousta\
+      \ zábavy. \U0001F642\n\n#HappyHacking #ForFunAndForProfit"
+    Visibility: MEMBER_NETWORK
+  '2020-08-25 18:43:16':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6704095806779092992
+    ShareCommentary: "Daniel: „Vás bych nikdy do firmy nepřijal.“\n\nTo už je takový\
+      \ linkedinýrský folklór. Komu doposud úplně cizí člověk, kterého se nikdo na\
+      \ nic neptal, nepřišel říct, že by ho nezaměstnal, ať se příhlásí. Tomas se\
+      \ nikam nehlásil. Těžko říct, jestli je jeho příspěvek arogantní… Danielova\
+      \ reakce je zcela určitě.\n\nDaniel: „Nechtěl jsem reagovat hned a nechal si\
+      \ příspěvek projít hlavou.“\n\nJestli tohle je „nechání projít hlavou“, nebylo\
+      \ nakonec lepší reagovat hned? \U0001F643\n\nOldřich: „…přišel na pohovor, takže\
+      \ ano, žádal.“\n\nPřišel na pohovor. Ovšem k někomu úplně jinému. Daniela o\
+      \ nic nežádal. Ale nezatěžujme Oldřicha takovými nuancemi. Zjevně se bavíme\
+      \ o člověku, který nezve lidi ke spolupráci, ale „na žádanou“. \U0001F642\n\n\
+      Oldřich: „Daniel je CEO, asi o tom, jako každý šéf, něco ví.“\n\nAť si jako\
+      \ CEO „vládne“ tam, kde mu byly svěřeny kompetence. Na zdech ostatních linkedinýrů\
+      \ to asi nebude.\n\nOldřich: „Vas u pohovoru povýšeně natrel na chleba. Na pivo\
+      \ byste s ním nešla, co?“\n\nOmyl. U pohovoru by si možná vás dva namazal na\
+      \ chleba. Martina je trošičku jiná liga. Ověřeno.\n\nPavlína: „klasicky vysirac\
+      \ \U0001F60A vas bych do firmy nevzala a uz vubec ne jako poradce na strategii\
+      \ firmy... je jednoduche umet odpovidat jen otazkou, to dokaze kazdy.“\n\nTakové\
+      \ krásné české slovo… A bez diakritiky.\n \n#Uncrecruitment"
+    Visibility: MEMBER_NETWORK
+  '2020-08-24 18:20:07':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6703727592723226624
+    ShareCommentary: "„Kde se vidíte za pět let?“\n\nV diskuzi jsem se dozvěděl, že\
+      \ by odpověď na tuto otázku měl znát každý člověk, a že je cajk z ní zkoušet\
+      \ při jednání o spolupráci. Za mě je to stejná kategorie otázek jako zda si\
+      \ budete výhledově pořizovat děti, a kdo se o ně bude starat.\n\nPokud chcete\
+      \ úspěšně procházet pohovory u těchto lidí, naučte se dobře lhát. Udělejte si\
+      \ průzkum, zjistěte si, co chce asi tak druhá strana slyšet, a to jim naservírujte\
+      \ na stříbrném podnose. Když se dá získat práce předstíráním zájmu o golf, tenis\
+      \ nebo fotbal, jistě to půjde dodáním správných odpovědí na šablonové otázky.\n\
+      \nZkuste jiný myšlenkový experiment. Kde jste se touto dobou viděli před pěti\
+      \ lety a kde jste teď? Je všechno tak sluníčkové, jak jste si naplánovali? Žádné\
+      \ životní či byznysové kotrmelce? Pomohlo vám nějak, že jste se před pěti lety\
+      \ někde viděli?\n\nJako vážně?\n\n#Unrecruitment #FortuneTelling"
+    Visibility: MEMBER_NETWORK
+  '2020-08-21 21:56:28':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6702694875034349568
+    ShareCommentary: "Kilo & káru? Prý máme problém s nějakou generací mladých, co\
+      \ chtějí v pracovní smlouvě sto tisíc měsíčně a služební auto.\n\nVolný pracovní\
+      \ trh prý nevadí. Problém je v „nesoudnosti, nenažranosti, nekonkurenceschopnosti\
+      \ a neproduktivitě“ především ve srovnání s Asií. A může za to „generace 2K“,\
+      \ která si žádá kilo a káru.\n\nPořád nerozumím, v čem je problém. Každý má\
+      \ přece právo říct si K&K, tak jako má protistrana právo nabídnout minimální\
+      \ mzdový tarif a jako velkorysý benefit stravenky. Je to byznys. Nabídka a poptávka.\
+      \ Chceš nebo nechceš. That simple.\n\nKdybyste narovinu řekli, že si nemůžete\
+      \ dovolit lidem zaplatit, co jinde dostanou, tak se o tom můžeme bavit. Jistě\
+      \ si někdo přijde na 100k měsíčně bez většího přínosu. Jiný si přijde k miliardovému\
+      \ businessu, nechává za sebou akorát bordel, a my budeme řešit K&K. Pathetic.\n\
+      \n„Zeptejte se lidí kolem, co je v životě jejich cílem. Budete vypadat, jako\
+      \ blázen.“\n\n\U0001F0CF Tak vážení, co je v životě vaším cílem?  \U0001F0CF\
+      \n\n#Unrecruitment #NejsouLidi\n\nP. S. Tuto diskuzi jsem naposledy vedl s Radimem\
+      \ Hasalíkem,\nkterý tehdy de facto žádal, aby se druzí obětovali pro konkurenceschopnost\
+      \ ČR a spokojili se s nižšími mzdami, abychom neztratili status montovny."
+    Visibility: MEMBER_NETWORK
+  '2020-08-19 09:14:03':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6701778232699580416
+    ShareCommentary: "Dobře, všichni píšeme o progresivním zdanění. \U0001F642\n\n\
+      Zdanění našeho výdělku je a bude vcelku jednoduchá matematická funkce. To už\
+      \ samo o sobě většina národa nedá. Když jsem to naposledy zkoušel, neměly ji\
+      \ správně ani mzdové kalkulačky.\n\nVětšinu lidí nezajímá, kolik zaplatí daň\
+      \ z příjmu, ale kolik jim zbyde peněz na výdaje, popřípadě kolik ze smluvené\
+      \ částky jim odteče na povinné odvody celkem.\n\nNaše současné zdanění je „spravedlivě“\
+      \ progresivní. Dává lidem možnost za nižší sazbu vydělávat na základní živobytí\
+      \ (sebe, dětí, druhého z manželů) a za vyšší sazbu vydělávat na nadstandard.\
+      \ Mechanismus se jmenuje „sleva na dani“ a je řízený podle nutných výdajů, byť\
+      \ paušálně určených.\n\nSocanská progresivní daň je čistá krádež. Nechává chudé\
+      \ chudými, jen cíleně okrádá jejich middle-class sousedy. Explicitně trestá\
+      \ (tradiční) rodinu, kde si muž najde náročnější práci a žena se stará o děti.\n\
+      \nDává nízkopříjmovým pocit, že na tom vydělali, a na jejich sousedech s o tři\
+      \ roky mladším autem jim ukazuje, že konečně zdanili bohaté. Co na tom, že za\
+      \ pár let zjistí, že už si jejich rodina auto nekoupí.\n\nBohatí si zatím vše\
+      \ znovu zoptimalizují a využijí chudšího obyvatelstva, levnější práce a lenvějších\
+      \ služeb.\n\n#DobřeVámTak\n\nP. S. Samozřejmě záleží na nastavení té progrese.\
+      \ Němci to zjevně ustáli."
+    Visibility: MEMBER_NETWORK
+  '2020-08-17 23:02:14':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6701261876203933696
+    ShareCommentary: "V čem je moje práce lepší než práce softskillerů?\n\nOd vícero\
+      \ lidí jsem tu četl, že je jejich vysněnou metou přednáška na nějaké konferenci.\
+      \ Když je tam pozvou, skáčou radostí po bytě.\n\nMně k vítěznému tanci stačí,\
+      \ když mi to konečně začne fungovat. To, co dělám, umí přinášet radost a uspokojení\
+      \ klidně i úplně bez publika. Nemusím čekat na pozvání na konferenci. Když už\
+      \ se mi chce přednášet, kolikrát stačí  „jen“ přijít se zajímavým tématem, a\
+      \ jsem tam.\n\nMožná vůbec nejsme od přírody větší introverti než ostatní, jenom\
+      \ jsme potřebu „být slyšet“ z části nahradili potřebou „ať to jede“. Ono vlastně\
+      \ asi nikdy nikoho ze „soft“ světa moc nezajímalo, jak ve skutečnosti fungujeme.\n\
+      \n#Unrecruitment #Motivace #Radost\n\nKdyž se člověk hrabe v síťových driverech\
+      \ a dává dohromady funkční firmware, tak se mozek nastaví trochu jinak. Člověk\
+      \ pak nemá na nějaké konference ani pomyšlení. A to přednáším rád, na malých\
+      \ i velkých akcích."
+    Visibility: MEMBER_NETWORK
+  '2020-08-16 20:49:51':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6700866172952297472
+    ShareCommentary: "Podle svého ega soudím tvé ego. \U0001F643 Měl jsem za to, že\
+      \ vlčí sága dávno skončila. Ale zjevně pro vytriggerování sebevědomého alfa\
+      \ samce, co se mě již snažil různými způsoby urazit, stačí jediný magický hashtag…\n\
+      \n#Vlčata\n\nDocela by mě zajímalo, co vlčího jedince s „desítkami kladných\
+      \ referencí“, který mi už přišel napsat, že jsem blbec, už o mně psal jako o\
+      \ Šimrdovi, ostentativně mě zablokoval a později v tichosti odblokoval…\n\n\
+      Vede k dalšímu zoufalému volání o pozornost? Jestli tak zoufale potřebujete\
+      \ nějakou publicitu, zde je pro vás speciální příspěvek, kde se můžete se svými\
+      \ kumpány vyřádit a zkusit vymyslet nějakou neotřelou urážku, která tu ještě\
+      \ nepadla. \U0001F642\n\nMezitím otázka pro ostatní:\n\n  • Jakou roli v tomto\
+      \ celém divadle hraje moje ego? •\n\nOčekávám seriózní diskuzi. Asi v každé\
+      \ tvorbě má ego své místo, ale troufám si říct, že tato „case study“, ač jsem\
+      \ jejím autorem, opravdu není o mně. Nebyla ani primárně mířena na konkrétní\
+      \ osoby.\n\nAle neváhal jsem, když se tyto rozhodly poskytnout mi nejen materiál,\
+      \ ale i dostatek arogantních reakcí, aby mi nebylo líto ten materiál použít.\
+      \ Odkaz na případovou studii najdete jako obvykle v samostatném komentáři.\n\
+      \n#Unrecruitment\n\nP. S. Tak snad aby si mě pan alpha zase zablokoval, aby\
+      \ neměl nutkavou potřebu na mě reagovat."
+    Visibility: MEMBER_NETWORK
+  '2020-08-14 22:36:45':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6700168298283184128
+    ShareCommentary: "IT recruiter není IT specialista. Tak zní nejoblíbenější výmluva,\
+      \ když se ukáže, že náš milý náborář projevil přesně nulový zájem o obor, do\
+      \ kterého nabírá.\n\nTaky nejsem strojař či hardware designer. Ale když přijedu\
+      \ školit programování do firmy, kde mi ve volném čase ukazují dílny, součástky,\
+      \ stroje, turbíny, stavby, konstrukce, tak sleduju s úžasem jejich denní chleba.\
+      \ Neříkám fuj, to mě nezajímá, já jsem přece pan programátor.\n\nNavíc programovat\
+      \ se na základní úrovni naučí osmileté dítě. Povědomí o programovém vybavení\
+      \ získal kdekdo, kdo si nemohl dovolit platit odborníka. Základní webařinu zvládl\
+      \ kdejaký grafik. Počítačové sítě u nás stavěli pankáči s jointem v hubě. Proč\
+      \ se tolik recruiterů štítí #hardskills?\n\nŽe si nerozumíme není proto, že\
+      \ nejste odborníci na informační technologie, nýbrž proto, že používáte #softskills\
+      \ jako zaklínadlo pro ostentativní odpor k technickým dovednostem.\n\n#Unrecruitment\
+      \ #Výmluvy #Vlčata\n\nOdbornost po vás nikdo nechce, jen úctu k oboru, do kterého\
+      \ nabíráte, a k lidem, kteří jej tvoří.\n\nP. S. Nakonec i matematiku a statistiku\
+      \ zvládli mnozí, co měli původně úplně jiné zájmy. Mnoho IT odborníků naopak\
+      \ zná kopec věcí mimo svůj obor. Znám i takové, co vám uvaří pivo."
+    Visibility: MEMBER_NETWORK
+  '2020-08-13 20:15:55':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6699770467508604928
+    ShareCommentary: "„Děkuji, Pavel“\n\nNaštěstí jsem na #LinkedIn pouze rekreačně,\
+      \ a tak nemusím šetřit čas používáním gramaticky nesprávných automatických zpráv.\n\
+      \nJestliže od kohokoli z vás dostanu podobnou automatickou zprávu, naznám, že\
+      \ jste mi věnovali přibližně nula času, a tudíž nevím, proč bych jej měl ztrácel\
+      \ já s vámi.\n\nExistuje případ, kdy automatické zprávy používám. Je to na serveru\
+      \ #lichess, kde nám sada anglických automatických zpráv pomáhá si rychle říct\
+      \ HI, GL, HF, GG, WP, TY, GTG nebo BYE. Když vám běží hodiny, nebo se rychle\
+      \ střídají hry či hráči, můžete s klidným svědomím říci, že nemáte čas.\n\n\
+      Pokud už na #LinkedIn porušuju pravopis a gramatiku, raději tak budu činit buď\
+      \ omylem, nebo zcela úmyslně, ale určitě ne z důvodu laxnosti vůči druhým. Jediný\
+      \ případ, kdy z technických důvodů nechávám jméno nevyskloňované, je když chci\
+      \ daného člověka označit.\n\nJestliže češtinu považujete za jazyk nehodný vaší\
+      \ pozornosti, klidně mi pište anglicky. Nějak se domluvíme.\n\n#Unrecruitment\
+      \ #GrammarNazi\n\nPři jakém čase na šachových hodinách tomu ještě říkáte šachy\
+      \ a kdy už je to pro vás jenom fraška?"
+    Visibility: MEMBER_NETWORK
+  '2020-08-12 21:22:57':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6699424950232612864
+    ShareCommentary: "Už jsem tu měl diskuzi s několika zastánci uměleckých chybových\
+      \ hlášek z řad #UX specialistů. Taková hláška musí být vždy přeložena do jazyka\
+      \ uživatele a musí mu sdělovat něco hezkého a radostného.\n\nLI je zřejmě stejného\
+      \ názoru a cílem jejich chybových hlášek je ve většině případů nějaká nepokrytá\
+      \ milosrdná lež, jako že na tom nepokrytě pracují a chyba určitě není na mojí\
+      \ straně. Mám sice nastavenou angličtinu, ale mám dojem, že česká chybová lžistránka\
+      \ byla ještě poetičtější.\n\nZvykejte si, milí uživatelé internetu, že i cenz…\
+      \ Raději to nebudu psát celé, aby mi „pan algoritmus“, jak mu říkají místní\
+      \ guruové, nedal za uši… -ura se vám bude prezentovat mile a laskavě, jako by\
+      \ to byla vaše ulhaná kamarádka.\n\n#Unrecruitment #Netizens #FreeBeer"
+    Visibility: MEMBER_NETWORK
+  '2020-08-10 19:16:42':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6698668401490968576
+    ShareCommentary: "Jen zřídka zasahuju do #business diskuzí na síti #Facebook.\n\
+      \nObčas si tam zajdu zavzpomínat na staré časy plné nadějných mladých podnikatelů\
+      \ a připomenu si „zbytečné rozhovory“ se známými, co taky „měli nápad“ a po\
+      \ mně chtěli jej realizovat.\n\n„Pane Niko, jestli je podíl zadarmo, rád bych\
+      \ dostal takový podíl u ČEŽu. Je to zkrátka nabídka, na účast něčeho co se rozjíždí\
+      \ a ještě to nikde ve světě nejede. Fb taky nějak musel začínat. Jestli se Vám\
+      \ ale zdá, myšlenka špatná a nesmyslná aby Vaše oblečení místo do spalovny šlo\
+      \ na upcyklaci a uvolnilo zemědělskou půdu, snížilo emise, spotřebu vody i chemie.\
+      \ Tak chápu, že tato práce pro Vás nemá žádnou hodnotu.“\n\nSnažit se utáhnout\
+      \ inzerátem programátory na práci zadarmo a „dynamický opční pool“ je směšné.\
+      \ Žádný programátor vám nebude realizovat vaše pochybné nápady za nějaké podíly\
+      \ na bezcenném byznysu, ani kdybyste jej stokrát přirovnávali k ČEZu, Applu\
+      \ nebo Facebooku.\n\nZkuste se zeptat třeba vytížené marketingové textařky,\
+      \ jakou je Lucie Zitterbartová, jestli vloží stovky hodin práce do nějaké vaší\
+      \ zatím neexistující ptákoviny jen tak za podíl. Tak co, Lucko, jdeš do toho‽\n\
+      \nA co vy z ostatních oborů, taky pracujete zadarmo?\n\n#Unrecruitment #FreeBeer"
+    Visibility: MEMBER_NETWORK
+  '2020-08-08 21:27:48':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6697976618343776256
+    ShareCommentary: "Člověk tu občas čte takovéty krásné teoretické koncepty výchovy\
+      \ dětí. Řeč bývá o svobodě, volnosti a beztrestnosti. V praxi pak člověk vidí…\n\
+      \n  ‣ Děti tak otravné a nepříjemné, že je okolo sebe nikdo nechce.\n\n  ‣ Rodiče\
+      \ tak vynervované, že si po té vší pozitivitě můžou vyřvat hlasivky.\n\n  ‣\
+      \ Hromadu sladkostí s cílem nespokojené děti umlčet.\n\nJsem proti tomu nasypat\
+      \ dětem takřka dospělácká privilegia bez povinností, a mezitím je uplácet, aby\
+      \ aspoň na chvíli daly pokoj. Jsem zastáncem toho, že má dítě privilegií dosahovat\
+      \ vlastním jednáním.\n\nUniverzální recepty na rodičovství nefungují. Nejen\
+      \ že může mít každé dítě zásadně odlišnou povahu, zázemí a zkušenosti, ale ani\
+      \ každý rodič nemůže ve svém životě uplatnit to stejné.\n\nJá třeba pracuju\
+      \ doma a moje práce vyžaduje soustředění. Též potřebuju disciplínu kvůli pohybu\
+      \ v městském provozu. Vyžaduju klid kvůli trávení času mezi dospělými. Jenže\
+      \ za to mám, co nabídnout!\n\nNeuráží mě, když cizí dítě nedostane zmrzlinu\
+      \ nebo dostane na zadek. Pokud nehrozí zásadní újma nebo nemůžu zásadně pomoct,\
+      \ nevidím smysl zasahovat. Beztak člověk při neznalosti situace nadělá víc škody.\n\
+      \n#Unrecruitment #Rodičovství\n\nP. S. Naučme se akceptovat rodičovskou nedokonalost."
+    Visibility: MEMBER_NETWORK
+  '2020-08-05 16:03:38':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6696807876108795904
+    ShareCommentary: "„Jestli pracujete ve velké firmě, rozhlédněte se dobře kolem\
+      \ sebe. Pokud se nejedná o čistě technický obor, s největší pravděpodobností\
+      \ více jak polovina zaměstnanců jsou ženy.“\n\nChápu „kariérní koučku“ správně,\
+      \ že je naprosto v pořádku, že se ženy necítí na technické pozice, ale manažerské\
+      \ by jim měly spadnout do klína? Možná podléhám zkreslení, ale podle mých zkušeností\
+      \ se ti nejlepší manažeři nebojí si ušpinit ruce ani použít mozek.\n\nProto\
+      \ nemám problém podporovat projekty jako jsou #Czechitas, které podporují ženy\
+      \ v dovednostech digitálního věku. Stejně bych neměl problém podporovat organizaci,\
+      \ která učí ženy ovládat bagr. A naopak bych se nebál podpořit kohokoli, kdo\
+      \ u otců rozbije status méněcenného rodiče.\n\n„Kde jsou všechny ty vzdělané,\
+      \ schopné a úspěšné ženy, které vystudovaly střední a vysoké školy se samými\
+      \ jedničkami?“\n\nKde jsou šprtky a šprti, co nikdy nedokázali proměnit své\
+      \ prchavé školní úspěchy v něco skutečného? To už si z nás snad paní koučka\
+      \ dělá legraci.\n\n#Unrecruitment #Diversity #Koučing\n\nJá asi chápu, proč\
+      \ technické obory stále nejsou tak sexy. Sice je tam dneska dost peněz, ale\
+      \ pořád je tam větší riziko, že si je člověk bude muset odmakat. Jděte do #hardskills,\
+      \ je to dost práce, ale výsledek za to stojí!\n\n\n\n\n"
+    Visibility: MEMBER_NETWORK
+  '2020-08-04 22:20:21':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6696540290729156608
+    ShareCommentary: "Tak jsem si navzdory všem místním snobům udělal tu nejstereotypnější\
+      \ českou dovolenou.\n\nDcerka přišla o každoroční zájezd s babičkou k moři,\
+      \ tak jsem se rozhodl po několika letech převzít štafetu. Protože to tam vůbec\
+      \ neznám, vzpomněl jsem si, že je mezi mými novými známými Sabina Zavřelová,\
+      \ která toho ví o Chorvatsku spoustu. Původně jsem si chtěl jenom nechat poradit,\
+      \ ale nakonec jsme sladili termín a vzali vedlejší apartmán.\n\nMyslel jsem,\
+      \ že se nezvládnu válet den za dnem u moře, ale teď mi to přijde jako ideální\
+      \ rozvolnění každodenního života. Bylo takové horko, že člověk na práci ani\
+      \ nepomyslel, a hlavní starostí bylo nespálit si pleš.\n\n#Unrecruitment #Dovolená\
+      \ #Nedovolená\n\nP. S. Přidávám decentní námořní fotku bez dcerky a bez mého\
+      \ otce, zato se Sabinou a jejíma dvěma miláčkama."
+    Visibility: MEMBER_NETWORK
+  '2020-08-02 22:26:32':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6695817071361593344
+    ShareCommentary: "Na duševní mrzáctví můžete narazit kdykoli a kdekoli. Poznáte\
+      \ jej, když vám začne internetový diskutér psát cosi o upřímnosti a lítosti,\
+      \ ačkoliv je celý problém v tom, že jste mu jediným argumentem shodili celý\
+      \ jeho domeček s karet.\n\n„Jak se popisujete, tak mi je vás upřímně líto.“\n\
+      \nUniverzální zbraní duševních mrzáků je takzvaná „upřímná lítost“. Jejím cílem\
+      \ je zcela obejít vaši argumentaci, napadnout vaši věrohodnost a zároveň vás\
+      \ fiktivní emocí dostat do pozice dlužníka. Už chybí jenom…\n\n„Nejsem teoretik,\
+      \ ale člověk, který vychoval dvě děti a udělal spoustu chyb, které se snažím\
+      \ sdílet s ostatními, aby oni si je mohli ušetřit.“\n\nFalešná skromnost jako\
+      \ nástroj pro exhibici vlastního ega, zkráceně #humblebrag, který se s předchozí\
+      \ technikou skvěle doplňuje. Ač nerad, musím uznat, že se zde jedná o jednoduchou\
+      \ a elegantní metodu manipulace, která #ProstěFunguje.\n\nCelé kouzlo spočívá\
+      \ v tom, že manipulátor přesvědčí své publikum o celé řadě bravurně zahraných\
+      \ dobrých vlastnostech. Podobně jako onen pověstný holub, co pokálí šachovnici\
+      \ a odletí jako vítěz, manipulátor odchází středem za potlesku dobře pěstovaného\
+      \ fanklubu.\n\n#Unrecruitment #Manipulace\n\nP. S. Jupiter, Saturn i Mars jsou\
+      \ spolu s měsícem takřka v úplňku stále výborně vidět. Poznáte je?"
+    Visibility: MEMBER_NETWORK
+  '2020-08-02 00:23:09':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6695484031347257344
+    ShareCommentary: "Recruitment level obchodníci s teplou vodou. Tak vy jste si\
+      \ dneska nekoupi lístek do loterie? Tak to se nemůžete divit, že si nekoupíte\
+      \ vlastní ostrov!\n\nJá se vždycky rád představoval, psal text e-mailu ve stylu\
+      \ klasického motivačního dopisu, a dával na odiv profesní hrdost. Teď mám kolem\
+      \ sebe spoustu obchodníků a podnikatelů, pod jejichž vlivem se tohoto zlozvyku\
+      \ snažím pomalu zanechat.\n\nMinimálně z 99 % jsou rady na internetu z řad HR\
+      \ čistě o tom, jak vás oni chtějí vidět. Pokud máte v životě vůbec nějaké #ambice\
+      \ (fuj, jak já to slovo nemám rád), nevedou tyto rady k tomu, jak se chcete\
+      \ vidět vy.\n\nMít vlastní životní strategii znamená mít aspoň něco, o co se\
+      \ můžete opřít, a na čem můžete stavět. Pokud do té strategie dlouhodobě patří\
+      \ přeskakovat firmy, co vyžadují motivační dopis, pak asi takové firmy k životu\
+      \ nepotřebujete.\n\n#Unrecruitment #MotivačníŽvásty\n\nPokud má osoba z recruitmentu\
+      \ potřebu vám napsat, že přicházíte o příležitosti… Zeptejte se jí, jak se o\
+      \ své příležitosti stará ona!\n\nP. S. Dnes využívám příležitosti dívat se z\
+      \ terasy na Měsíc skoro v úplňku, Jupiter, Saturn a Mars za perfektní viditelnosti.\
+      \ Je-li vám to málo, vlezte mi na záda. \U0001F643"
+    Visibility: MEMBER_NETWORK
+  '2020-07-31 23:20:19':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6695105833656705024
+    ShareCommentary: "Říkal jsem, že se v případě nouze nejvyšší zvládnu babysitting\
+      \ i úklidovou službu, ale #Frontend ať po mně nikdo nechce. O pár dní jsem se\
+      \  zavázal k projektu, kde bude potřeba postavit frontend moderní. \n\nTakže\
+      \ mě čeká vedle běžné práce a vedlejších projektů nové kolo studia jazyka #Javascript,\
+      \ nové kolo studia programování frontend aplikací a výběru nástrojů, frameworků\
+      \ a postupů v oblasti, kterou neumím. Jako vždycky se přimotám přesně k tomu,\
+      \ co prohlašuju, že rozhodně dělat nebudu. Jenže jsem dostal nabídku, která\
+      \ se neodmítá.\n\nSpoléhám na svou síť, že mě pomůžete do začátku nasměrovat\
+      \ na ty správné nástroje a postupy pro daný účel. Potřebuju s nulovou vstupní\
+      \ znalostí postavit dynamickou responzivní appku, nad nějakým REST API, a k\
+      \ tomu základní API backend nad nějakou databází.\n\n#Unrecruitment #SuperBeginners\
+      \ \n\nP. S. Vemte mě něčím po hlavě, než budu mít další podobný nápad. Ševče,\
+      \ drž se svého řemesla."
+    Visibility: MEMBER_NETWORK
+  '2020-07-25 11:49:54':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6692757756711055360
+    ShareCommentary: "Dnes bych rád veřejně uznal svůj omyl.\n\nVždy jsem se smál\
+      \ spojení „LinkedIn komunita“, a prohlašoval, že nic takového neexistuje. Teď\
+      \ vím, že (minimálně jedna, česká) komunita na #LinkedIn existuje, a že jsem\
+      \ její součástí, nikoliv jen terčem diskuzí.\n\nA řeknu vám, že je to prdel\
+      \ (sranda už dnes není dostatečně vulgární na odlehčení situace, puritáni nechť\
+      \ si dosadí legraci), ať se řeší vtipná témata, nebo vážná.\n\nKdosi tu zmiňoval\
+      \ šikanu a hon na čarodějnice. Já vím velmi dobře, co je šikana. Dokonce z obou\
+      \ stran, ač jsem z té aktivní velmi vědomě couval. O honu na čarodějnice si\
+      \ prosím něco zjistěte, než ho budete používat jako příměr.\n\nKaždá skupina\
+      \ lidí má nějaké ozdravné mechanismy, a každý člověk si může vybrat, jestli\
+      \ bude riskovat, že se do těch ozdravných mechanismů chytí.\n\nSám koneckonců\
+      \ už do nemálo skupin nemůžu jen tak vkročit a splynout s davem…\n\n#Unrecruitment\
+      \ #Komunita\n\nP. S. Díky za vytvoření komunity, kde neplatím za jediného exota\
+      \ široko daleko. \U0001F643\n\nAť žije cimrman!"
+    Visibility: MEMBER_NETWORK
+  '2020-07-24 21:21:40':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6692539258172911616
+    ShareCommentary: "Návod pro začínající profesory na ukončení spolupráce v případě\
+      \ nespokojenosti.\n\nŽil byl jeden takový profesor doktor a zadal práci mladé\
+      \ copywriterce. Nevíme, jestli se mu výsledek práce opravdu nelíbil, nebo už\
+      \ celou zakázku zadával mladé slečně s tím, že si na ní bude honit ego.\n\n\
+      S jistotou ovšem víme, že se začal ohánět GDPR v okamžiku, kdy byl screenshoty\
+      \ usvědčen ze lži. Mě se takto snažily řečmi o GDPR umlčet holky ze studijního\
+      \ z jedné soukromé VŠ. Já je umlčel kontaktem na právníka. A tak nabízím Tereza\
+      \ Hladíková ze svého 5000 Kč jako základ na #crowdfunding na právní služby v\
+      \ případě sporu. Přidáte se?\n\nA teď ten návod. Pokud se mi odevzdaná práce\
+      \ zdá opravdu špatná, nekrmím ostatní kecy o tom, co je pro copywritera/ajťáka/kohokoli\
+      \ hračka, a prostě se dohodnu na odstoupení od smlouvy. Věřím, že copywriterka\
+      \ raději obětuje jednotky již odpracovaných hodin, a půjde se věnovat něčemu\
+      \ jinému.\n\nProblém nastává, když dotyčnému nejde o reklamaci, ale chce cíleně\
+      \ škodit. Pak nezbývá než ho zadupat do země všemi dostupnými prostředky. Popsal\
+      \ jsem situaci dobře?\n\n#Unrecruitment #Spolupráce\n\nP. S. Kdyby doktor profesor\
+      \ potřeboval na vyřešení problému pomoc osobního kouče, ať se ozve. Pár jich\
+      \ znám.\n"
+    Visibility: MEMBER_NETWORK
+  '2020-07-22 18:45:59':
+    ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6691775304857346048
+    ShareCommentary: "Už jste někdy uvažovali nad tím, jaký je rozdíl mezi sítěmi\
+      \ #LinkedIn a #Facebook?\n\nSlyšel jsem, že se na FB obecně lépe prodává než\
+      \ na LI. Protože ale na sítích (kromě kočárku a botiček) nic neprodávám, zajímají\
+      \ mě spíše diskuze a demografie.\n\nLinkedIn je taková snobská verze Facebooku.\
+      \ Hlavními hodnotami jsou tady úspěch, peníze a pak úplně cokoliv, co nebylo\
+      \ levné. Lidé se tu cítí býti ostatním nadřazeni vším možným od sečtělosti přes\
+      \ tituly až po morální exhibici. Facebook se tu zmiňuje zásadně s despektem.\n\
+      \nFacebook naopak oplývá obrovským množstvím lidí, co se cítí nadřazeni nevzdělaností\
+      \ a vysokou školou života. Je to tam jedna z nejhlasitějších sociálních skupin.\
+      \ Ve skutečnosti tam ovšem najdete daleko rozmanitější populaci než tady. LinkedIn\
+      \ tam nikoho nezajímá a prakticky nikdo tam o něm nemluví.\n\nNapadá vás ještě\
+      \ něco?\n\n#Unrecruitment #SocialBehavior"
+    Visibility: MEMBER_NETWORK
   '2020-07-20 19:42:14':
     ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6691064681815138305
     ShareCommentary: "Odborník na… Na všechno, co jsem tak pochopil, zhodnotil Jaroslav\
@@ -6253,6 +7090,7 @@ posts:
       \ so many people to the level that they rather stick with the wrong perception\
       \ to avoid having to think about it.\n\n#illusion #perception\n\nhttps://lnkd.in/gg5Ah73"
     SharedURL: https://www.youtube.com/watch?v=o_D-HsMOYQ8
+    MediaURL: https://media.licdn.com/media-proxy/ext?w=1920&h=1080&f=n&hash=gfXnWeO4DDqm8vt9jtAfHjkON4k%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6j3QIOyxEmrq2OoACm7QhIeqaRKnPcJEzL8srdMT-rLISLLOTw4QFSZnZBxw
     Visibility: MEMBER_NETWORK
   '2018-05-12 16:56:16':
     ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6401112625513660416
@@ -6886,7 +7724,6 @@ posts:
       \ cannot verify for myself. I can't believe the video has been there since Jan\
       \ 13 and I haven't noticed.\n\nhttps://lnkd.in/gDb5B9y"
     SharedURL: https://www.youtube.com/watch?v=YuIIjLr6vUA
-    MediaURL: https://media-exp2.licdn.com/media-proxy/ext?w=1280&h=720&f=n&hash=ggXVj3pKaoZ8%2ByQd1cfjqCCNVx0%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6j3QIOyxEmrq2OoACm7Qh-UKv1CEzjXWPPi8rdMT-rLISLLOTw4QFSZnZBxw
     Visibility: MEMBER_NETWORK
   '2018-02-24 14:16:23':
     ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6373168521005932544
@@ -8907,8 +9744,6 @@ posts:
     ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6229783575231893504
     ShareCommentary: If anyone wants to see me, FOSDEM.org or DevConf.cz might be
       the best opportunities. Let me know!
-    SharedURL: http://FOSDEM.org
-    MediaURL: https://fosdem.org/2017/assets/style/logo-gear-7204a6874eb0128932db10ff4030910401ac06f4e907f8b4a40da24ba592b252.png
     Visibility: MEMBER_NETWORK
   '2016-12-26 10:27:22':
     ShareLink: https://www.linkedin.com/feed/update/urn%3Ali%3Ashare%3A6219096046501531648
