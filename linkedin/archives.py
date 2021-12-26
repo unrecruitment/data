@@ -24,7 +24,10 @@ class Person:
         self.path = path
         self.name = path.split('/')[-1]
         self.archives = []
-        for p in sorted(glob.glob(f'{path}/*.zip'), key=self._extract_archive_date):
+        archive_path = f'{path}/Complete_LinkedInDataExport_??-??-????.zip'
+        log.debug(f"Checking path {archive_path!r}...")
+        for p in sorted(glob.glob(archive_path), key=self._extract_archive_date):
+            log.debug(f"Examining archive {p!r}...")
             self.archives.append(Archive(p))
             with contextlib.suppress(AttributeError):
                 print(len(self.archives[-1].posts))

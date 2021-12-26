@@ -6,6 +6,7 @@ import math
 
 import logging
 logging.basicConfig(level=logging.DEBUG)
+log = logging.getLogger()
 
 import ruamel.yaml
 yaml = ruamel.yaml.YAML()
@@ -26,5 +27,7 @@ for person in Data('users').people:
         for key, value in list(record.items()):
             if isinstance(value, float) and math.isnan(value):
                 del record[key]
-    with open(f'{person.path}/posts.yaml', 'w') as stream:
+    yaml_path = f'{person.path}/posts.yaml'
+    log.debug(f"Writing to {yaml_path!r}...")
+    with open(yaml_path, 'w') as stream:
         yaml.dump({'posts': data}, stream)
