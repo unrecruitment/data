@@ -48,8 +48,16 @@ class Archive:
     def __init__(self, path):
         with ZipFile(path) as zipfile:
             log.debug(f"Processing: {path}")
-            with contextlib.suppress(KeyError):
-                with zipfile.open('Shares.csv') as stream:
-                    self.posts = pd.read_csv(stream, parse_dates=[])
-                    self.posts.set_index(self.posts.pop('Date'), inplace=True)
-                    self.posts['ShareCommentary'] = self.posts['ShareCommentary'].str.replace('"\r\n"', '\n')
+            shares = [
+                name for name in zipfile.namelist()
+                if name.rsplit('/', 1)[-1].startswith('Shares')
+                and name.endswith('.csv')
+            ]
+            if not shares:
+                raise KeyError("No Shares CSV found in LinkedIn export")
+            if len(shares) > 1:
+                raise ValueError(f"Multiple Shares CSV files found: {shares}")
+            with zipfile.open(shares[0]) as stream:
+                self.posts = pd.read_csv(stream, parse_dates=[])
+                self.posts.set_index(self.posts.pop('Date'), inplace=True)
+                self.posts['ShareCommentary'] = self.posts['ShareCommentary'].str.replace('"\r\n"', '\n')
